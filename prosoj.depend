@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681486352 source:c:\users\nyamasi\onedrive\desktop\exam\prosoj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
